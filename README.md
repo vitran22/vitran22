@@ -1,7 +1,20 @@
-👋 **Hi, I'm Vi!**
+# 👋 Hi there, I'm Vi!
 
-I'm a Computer Science major at UT Arlington with a passion for software engineering, AI/ML, and data science. Previously, I interned as a Software Engineer at Frontier Communications, where I focused on automating manual workflows to improve efficiency. I enjoy connecting with others in tech and continuously expanding my knowledge through collaboration and projects. My mission is to build impactful solutions that address real world challenges and create meaningful change. 
+Hi there! I'm a senior majoring in Computer Science at the University of Texas at Arlington with a strong passion for building solutions that are both efficient and impactful. I've gained hands-on experience in data engineering and software engineering through internships at companies like BNSF Railway, CVS Health, and Frontier Internet. 
 
+---
+
+## 🧰 Tech Stack
+**Programming Languages:** Python, SQL, HTML, CSS, JavaScript
+**Tools:** Microsoft Azure Databricks, Delta Lake, Microsoft Fabric, Apache Iceberg, DBeaver, Teradata,
+PowerBI, Google Gemini, Google Cloud Platform (Cloud Storage, BigQuery, VertexAI), Jupyter Notebook, PyCharm,
+Microsoft Excel, GitHub 
+
+---
+
+## 📬 How to Reach Me
+📧 vi.ktran22@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vi-tran11)  
 
 
 
